@@ -1,0 +1,3 @@
+torchmetrics
+torch-summary
+albumentations
