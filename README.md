@@ -1,6 +1,6 @@
 # cs-gy-6923-final-project
 
-Project submission for CS-GY-6923 Machine Learning
+Project submission for CS-GY-6923 Machine Learning <br>
 Team Members:
 - Sohith Bandari
 - Utkarsh Mittal
